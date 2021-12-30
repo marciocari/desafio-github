@@ -1,0 +1,5 @@
+Download do Git: https://git-scm.com/downloads
+Git Basch: terminal para acessar e usar o Git.
+Adicionar os novos objetos ao repositório: git add . OU git add -A
+Estado (conferência): git status
+Enviar para o repositório (comitar): git commit -m "Inclusão das anotações iniciais"
